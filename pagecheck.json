@@ -1,0 +1,10 @@
+[
+ "/ -> ERR ",
+ "/stocks -> ERR ",
+ "/stocks/TATAMOTORS -> ERR ",
+ "/portfolio -> ERR ",
+ "/paper-trading -> ERR ",
+ "/alerts -> ERR ",
+ "/news -> ERR ",
+ "/reports -> ERR "
+]

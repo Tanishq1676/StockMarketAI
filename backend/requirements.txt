@@ -1,0 +1,17 @@
+# Indian Stock Market Intelligence Platform — backend requirements
+# SQLAlchemy is pinned to 2.0.x; newer 2.1.x builds contain native
+# extensions that are blocked on some Windows environments.
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.0.38
+psycopg2-binary==2.9.13
+pydantic==2.10.6
+httpx==0.28.1
+requests==2.34.2
+python-dotenv==1.2.4
+apscheduler==3.11.3
+feedparser==6.0.14
+numpy==2.5.5
+pandas==3.1.1
+scikit-learn==1.9.1
+python-dateutil==4.0.0
